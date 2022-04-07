@@ -1,4 +1,4 @@
- [![hjh05's github stats](https://github-readme-stats.vercel.app/api?username=hjh05-S2i&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![hjh05's github stats](https://github-readme-stats.vercel.app/api?username=hjh05-S2i&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <div align=left>
  
   
