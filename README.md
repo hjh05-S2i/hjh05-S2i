@@ -12,6 +12,7 @@
 -  Web Developer
 
 ### 🌱 I’m currently learning ...
+- C# .NET CORE
 - React18, NextJS, Typescript
 - Python, Django
 - MySQL, RepoDB
